@@ -1,29 +1,29 @@
-{
-   {
+{"items" :
+   [{
       "speed":2,
       "init":"..R...."
-   }{
+   },{
       "speed":3,
       "init":"RR..LRL"
-   }{
+   },{
       "speed":10,
       "init":"RLRLRLRLRL"
-   }{
+   },{
       "speed":1,
       "init":"..."
-   }{
+   },{
       "speed":1,
       "init":"LRRL.LR.LRR.R.LRRL."
-   }{
+   },{
       "speed":15,
       "init":"LRRL.LR.LRR.R.LRRL."
-   }{
+   },{
       "speed":2,
       "init":"..R.a.."
-   }{
+   },{
       "speed":5,
       "init":"..R..........LR.L.........LR....R.RR...........LR.RL.R...............RL.R...............LR....R.RR...........LR"
-   }
+   }]
 }
 
 

@@ -1,0 +1,22 @@
+{
+  {
+  "speed": 2,
+  "init": "..R...."
+  }
+  {
+  "speed": 3,
+  "init": "RR..LRL"
+  }
+  {
+  "speed": 10,
+  "init": "RLRLRLRLRL"
+  }
+  {
+  "speed": 1,
+  "init": "..."
+  }
+  {
+  "speed": 1,
+  "init": "LRRL.LR.LRR.R.LRRL."
+  }
+}

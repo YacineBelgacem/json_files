@@ -1,9 +1,9 @@
 {
-        "item1":[{
+        [{
         "speed": 2,
         "init": "..R...."
         }]
-        "item2":[{
+        [{
         "speed": 3,
         "init": "RR..LRL"
         }]
